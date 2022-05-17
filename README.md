@@ -1,6 +1,6 @@
-# poe-react-ts
+# poe-next-ts
 
-React + Typescirpt + Tailwind + Recoil
+Next(=React) + Typescirpt + Tailwind + Recoil
 
 UI/UX
 - tailwind
